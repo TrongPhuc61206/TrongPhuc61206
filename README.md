@@ -1,4 +1,5 @@
 ## Hi, I'm Trong Phuc 👋
+
 🔭 I’m currently working on the EcoBite project.
 🌱 I’m majoring in computer vision.
 
