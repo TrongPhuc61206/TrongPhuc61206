@@ -1,9 +1,7 @@
-## Hi there 👋
+## Hi, I'm Trong Phuc 👋
+🔭 I’m currently working on the EcoBite project.
+🌱 I’m majoring in computer vision.
 
-## Hi, I'm Trong Phuc
-
-- 🔭 I’m currently working on EcoBite.
-- 🌱 I’m learning software engineering and advanced computer science.
 ## My Contribution Graph in snake game
 
 <picture>
